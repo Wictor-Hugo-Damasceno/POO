@@ -16,6 +16,6 @@ Este documento apresenta a documentação e a comprovação das etapas realizada
   git clone [https://github.com/Wictor-Hugo-Damasceno/POO.git](https://github.com/Wictor-Hugo-Damasceno/POO.git)
   cd POO
   ´´´
-  <img width="812" height="127" alt="image" src="https://github.com/user-attachments/assets/20e45914-ea5f-409d-a002-21b0e73fd9d6" />
+  
 
   
