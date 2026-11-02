@@ -15,3 +15,4 @@ Este documento apresenta a documentação e a comprovação das etapas realizada
   ```bash
   git clone [https://github.com/Wictor-Hugo-Damasceno/POO.git](https://github.com/Wictor-Hugo-Damasceno/POO.git)
   cd POO
+<img width="812" height="127" alt="image" src="https://github.com/user-attachments/assets/8b1896c7-c9d3-4495-a9a1-7828b79ee0e7" />
