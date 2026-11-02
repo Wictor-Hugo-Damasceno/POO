@@ -27,3 +27,8 @@ git push origin main
 * **Descrição**: Foi criado e alternado para um novo ramo chamado `novo-ramo` utilizando o comando `git checkout -b novo-ramo` no terminal integrado do VS Code. Em seguida, as alterações foram preparadas com `git add .`, registadas no histórico local com o commit `"Comproção de ramo"` e enviadas com sucesso para o repositório remoto no GitHub através do comando `git push origin novo-ramo`.
 
   <img width="699" height="242" alt="image" src="https://github.com/user-attachments/assets/d9860d65-23d1-4127-8279-706251e95724" />
+
+### Etapa 5: Commits
+* **Descrição**: Foi criado e alternado para um novo ramo utilizando o comando `git checkout -b` no terminal integrado do VS Code. Em seguida, as alterações foram preparadas, registadas no histórico local com commits e enviadas com sucesso para o repositório remoto no GitHub
+<img width="1443" height="733" alt="image" src="https://github.com/user-attachments/assets/5225f5f4-3a5a-4379-8ed2-91e8b3919d6d" />
+
